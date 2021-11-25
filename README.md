@@ -1,16 +1,14 @@
-### Hi there 👋
+![Peek 2020-07-09 15-53](https://user-images.githubusercontent.com/7910856/87048834-84abea80-c1fc-11ea-9342-27b96a046ba4.gif)
 
-<!--
-**einartech/einartech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p  align="center">
+  <img src="https://raw.githubusercontent.com/einartech/einartech/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
+  <img src="https://raw.githubusercontent.com/einartech/einartech/master/profile-summary-card-output/default/1-repos-per-language.svg">
+  <img src="https://raw.githubusercontent.com/einartech/einartech/master/profile-summary-card-output/default/2-most-commit-language.svg"></br></p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p  align="center">
+<a href= "https://www.linkedin.com/in/einartech/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
+</p>
+
