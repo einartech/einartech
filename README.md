@@ -68,7 +68,6 @@ My objective is to keep developing my technical skills, collaborate with other p
 
 - **Docker**
 - **Jenkins**
-- **Postman**
 
 ---
 
@@ -106,6 +105,7 @@ My objective is to keep developing my technical skills, collaborate with other p
 
 - **JSON**
 - **WordPress**
+- **Notion**
 
 ---
 
@@ -119,6 +119,31 @@ My objective is to keep developing my technical skills, collaborate with other p
 
 - **JUnit Jupiter**
 - **Vitest**
+- **Vite**
+
+---
+
+## 🖥️ Operating Systems
+
+- **Windows**
+- **Linux**
+- **Kali Linux**
+
+---
+
+## 🛠️ Editors and Shells
+
+- **Bash**
+- **Vim**
+- **PowerShell**
+- **VSCode**
+
+---
+
+## 🌐 Version Control and Collaboration
+
+- **Git**
+- **GitHub**
 
 ---
 
@@ -130,35 +155,9 @@ My objective is to keep developing my technical skills, collaborate with other p
 ---
 
 <p align="center">
-  <i class="fab fa-html5" style="font-size: 40px; color: #E34F26;" title="HTML5"></i>
-  <i class="fab fa-css3-alt" style="font-size: 40px; color: #1572B6;" title="CSS3"></i>
-  <i class="fab fa-sass" style="font-size: 40px; color: #CC6699;" title="Sass"></i>
-  <i class="fab fa-js-square" style="font-size: 40px; color: #F7DF1E;" title="JavaScript"></i>
-  <i class="fab fa-react" style="font-size: 40px; color: #61DAFB;" title="React"></i>
-  <i class="fab fa-angular" style="font-size: 40px; color: #DD0031;" title="AngularJS"></i>
-  <i class="fab fa-bootstrap" style="font-size: 40px; color: #7952B3;" title="Bootstrap"></i>
-  <i class="fab fa-node-js" style="font-size: 40px; color: #339933;" title="Node.js"></i>
-  <i class="fab fa-php" style="font-size: 40px; color: #777BB4;" title="PHP"></i>
-  <i class="fab fa-java" style="font-size: 40px; color: #007396;" title="Java"></i>
-  <i class="fas fa-database" style="font-size: 40px; color: #4479A1;" title="MySQL"></i>
-  <i class="fas fa-leaf" style="font-size: 40px; color: #47A248;" title="MongoDB"></i>
-  <i class="fab fa-docker" style="font-size: 40px; color: #2496ED;" title="Docker"></i>
-  <i class="fas fa-tools" style="font-size: 40px; color: #D24939;" title="Jenkins"></i>
-  <i class="fas fa-flask" style="font-size: 40px; color: #FF6C37;" title="Postman"></i>
-  <i class="fas fa-shield-alt" style="font-size: 40px; color: #5A5A5A;" title="Burp Suite"></i>
-  <i class="fas fa-network-wired" style="font-size: 40px; color: #5A5A5A;" title="Networking"></i>
-  <i class="fas fa-terminal" style="font-size: 40px; color: #5A5A5A;" title="SSH"></i>
-  <i class="fas fa-lock" style="font-size: 40px; color: #5A5A5A;" title="VPN"></i>
-  <i class="fab fa-android" style="font-size: 40px; color: #3DDC84;" title="Rooting Android"></i>
-  <i class="fas fa-microchip" style="font-size: 40px; color: #5A5A5A;" title="ODIN"></i>
-  <i class="fas fa-mobile-alt" style="font-size: 40px; color: #5A5A5A;" title="Device Rooting"></i>
-  <i class="fas fa-terminal" style="font-size: 40px; color: #5A5A5A;" title="Termite"></i>
-  <i class="fas fa-home" style="font-size: 40px; color: #5A5A5A;" title="KNX"></i>
-  <i class="fas fa-code" style="font-size: 40px; color: #5A5A5A;" title="JSON"></i>
-  <i class="fab fa-wordpress" style="font-size: 40px; color: #21759B;" title="WordPress"></i>
-  <i class="fas fa-flask" style="font-size: 40px; color: #FF6C37;" title="Postman"></i>
-  <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="JUnit Jupiter" width="40" height="40" title="JUnit Jupiter"/>
-  <img src="https://vitest.dev/logo-shadow.svg" alt="Vitest" width="40" height="40" title="Vitest"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,jquery,react,js,nodejs,php,java,express,mysql,mongodb,docker,jenkins,postman,vitest,vite,git,bash,vscode,vim,powershell,notion,windows,linux,kali,github,androidstudio" />
+  </a>
 </p>
 
 ---
